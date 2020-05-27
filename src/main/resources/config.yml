@@ -1,0 +1,16 @@
+Software:
+  debug: true
+  log-folder: "logs"
+  plugins-folder: "plugins"
+
+Discord:
+  bot-token: "XXX_TOKEN_XXX"
+  nickname: "EoBot"
+  status:
+    # LISTENING | PLAYING | STREAMING | WATCHING
+    type: "PLAYING"
+    message: "v%version%"
+  default_serverID: 521271514646183936
+
+Command:
+  prefix: "!"
